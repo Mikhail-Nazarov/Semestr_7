@@ -1,0 +1,10 @@
+C:\Users\123\source\repos\7 семак\IST\IST\bin\Debug\IST.exe.config
+C:\Users\123\source\repos\7 семак\IST\IST\bin\Debug\IST.exe
+C:\Users\123\source\repos\7 семак\IST\IST\bin\Debug\IST.pdb
+C:\Users\123\source\repos\7 семак\IST\IST\obj\Debug\IST.csproj.AssemblyReference.cache
+C:\Users\123\source\repos\7 семак\IST\IST\obj\Debug\IST.Form1.resources
+C:\Users\123\source\repos\7 семак\IST\IST\obj\Debug\IST.Properties.Resources.resources
+C:\Users\123\source\repos\7 семак\IST\IST\obj\Debug\IST.csproj.GenerateResource.cache
+C:\Users\123\source\repos\7 семак\IST\IST\obj\Debug\IST.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\7 семак\IST\IST\obj\Debug\IST.exe
+C:\Users\123\source\repos\7 семак\IST\IST\obj\Debug\IST.pdb
